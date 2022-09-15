@@ -1,0 +1,7 @@
+masks, display frames, no
+
+barewires are drawn at 0.010 inches width
+insulated wires are drawn at 0.020 inches width
+
+each jumper consists of a pline and two donuts (end points)
+the jumper blocks will need to be exploded to be stretched
